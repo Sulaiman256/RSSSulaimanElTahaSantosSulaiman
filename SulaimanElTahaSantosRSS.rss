@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Resumen de Podcasts</title>
+        <description>Resumen de los últimos episodios de podcast</description>
+        <link>https://ejemplo.com/podcast</link>
+        <lastBuildDate>Mon, 15 Apr 2024 12:00:00 GMT</lastBuildDate>
+
+        
+        <item>
+            <title>La Tecnología</title>
+            <description>Últimas tendencias en tecnología y gadgets.</description>
+            <link>https://ejemplo.com/podcast/la-tecnologia</link>
+            <pubDate>Fri, 15 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>El Cine y Entretenimiento</title>
+            <description>Lo mejor del cine y las series de TV.</description>
+            <link>https://ejemplo.com/podcast/el-cine-y-entretenimiento</link>
+            <pubDate>Thu, 14 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Los Deportes</title>
+            <description>Noticias, análisis y debates sobre los deportes más populares.</description>
+            <link>https://ejemplo.com/podcast/los-deportes</link>
+            <pubDate>Wed, 13 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>La Salud y Bienestar</title>
+            <description>Consejos prácticos para una vida saludable.</description>
+            <link>https://ejemplo.com/podcast/la-salud-y-bienestar</link>
+            <pubDate>Tue, 12 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Islam y Pensamiento</title>
+            <description>Explorando los principios del Islam y cómo pensar para llegar al Creador.</description>
+            <link>https://ejemplo.com/podcast/islam-y-pensamiento</link>
+            <pubDate>Sun, 10 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
